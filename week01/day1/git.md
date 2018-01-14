@@ -1,7 +1,5 @@
 # Week 1 Setup
 
-🐞 Consult this [handy Git troubleshooting guide](https://github.com/horizons-school-of-technology/git-prepwork/blob/master/troubleshoot.md)
-if you encounter any issues during setup 🐞
 
 1. Make sure you've completed the [Git Prepwork](https://github.com/horizons-school-of-technology/git-prepwork) exercise before proceeding.
 1. Open your terminal and go to your Horizons directory (i.e folder)
